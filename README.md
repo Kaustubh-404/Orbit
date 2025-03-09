@@ -27,7 +27,7 @@ Orbit revolutionizes prediction markets by bringing a Gen Z-friendly twist to be
 
 Our prediction market contracts are deployed on Electroneum Network:
 - Token Contract Address: `0xc7b43dfec16dd6ec3a01148743619f05cc46ee8b`
-- Prediction Contract: `0x33837ccc3fe3774e3b36513c81424e4944d08e57`
+- Prediction Contract: `0x8b06A0DC73E086624282098688981D09aC3e1c7E`
 
 ## 🎮 How It Works
 
