@@ -115,7 +115,7 @@ export default function Bet() {
           <h1 className="font-brice-semibold text-2xl mb-6">Purchase Shares</h1>
           <form onSubmit={handleSubmit} className="flex flex-col gap-4">
             <div>
-              <label className="block mb-2 font-medium">Amount (ETH)</label>
+              <label className="block mb-2 font-medium">Amount (ETN)</label>
               <input
                 type="text"
                 value="0.001"
