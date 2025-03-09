@@ -1,6 +1,5 @@
 # 🎲 Orbit - Gen Z Prediction Markets on Electroneum
 
-
 ## 🚀 Overview
 
 Orbit revolutionizes prediction markets by bringing a Gen Z-friendly twist to betting. Built on Electroneum Network and accessible through Telegram Mini Apps, Orbit features an intuitive Tinder-like swipe interface for making predictions. Left for No, Right for Yes - it's that simple!
@@ -21,7 +20,6 @@ Orbit revolutionizes prediction markets by bringing a Gen Z-friendly twist to be
 - 📱 Telegram Mini Apps SDK
 - 🌐 Electroneum Network Integration
 - 🎨 Tailwind CSS for styling
-
 
 ## 🔗 Smart Contracts
 
@@ -52,15 +50,40 @@ Our prediction market contracts are deployed on Electroneum Network:
 - Protected user data
 - Regular security updates
 
+## 🛠️ Setup
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-repo/orbit.git
+   ```
+2. Check the environment variables:
+   ```sh
+   cd orbit
+   cp .env.example .env
+   ```
+3. Install dependencies:
+   ```sh
+   yarn install
+   ```
+   or
+   ```sh
+   npm install
+   ```
+4. Run the development server:
+   ```sh
+   yarn run dev
+   ```
+   or
+   ```sh
+   npm run dev
+   ```
+
 ## 🛣️ Roadmap
 
 - Q4 2024: Launch on Electroneum Testnet
 - Q1 2025: Mainnet deployment
 - Q2 2025: Advanced markets
 - Q3 2025: Mobile app expansion
-
-
-
 
 ---
 
