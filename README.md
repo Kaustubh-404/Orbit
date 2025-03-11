@@ -78,13 +78,6 @@ Our prediction market contracts are deployed on Electroneum Network:
    npm run dev
    ```
 
-## 🛣️ Roadmap
-
-- Q4 2024: Launch on Electroneum Testnet
-- Q1 2025: Mainnet deployment
-- Q2 2025: Advanced markets
-- Q3 2025: Mobile app expansion
-
 ---
 
 Built with ❤️ for Gen Z Traders
