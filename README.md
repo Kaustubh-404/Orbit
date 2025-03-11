@@ -54,7 +54,7 @@ Our prediction market contracts are deployed on Electroneum Network:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/orbit.git
+   git clone https://github.com/Kaustubh-404/Orbit.git
    ```
 2. Check the environment variables:
    ```sh
